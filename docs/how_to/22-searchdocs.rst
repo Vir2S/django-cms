@@ -1,5 +1,7 @@
-How to add search to your django CMS site
-=========================================
+Make your site searchable 
+=========================
+
+This chapter describes how you can implement a search functionality on your site.
 
 .. seealso::
 
